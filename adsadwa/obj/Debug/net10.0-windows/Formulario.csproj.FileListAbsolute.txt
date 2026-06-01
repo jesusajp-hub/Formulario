@@ -1,0 +1,8 @@
+C:\Users\Usuario\Pictures\adsadwa\obj\Debug\net10.0-windows\Formulario.Form1.resources
+C:\Users\Usuario\Pictures\adsadwa\obj\Debug\net10.0-windows\Formulario.Properties.Resources.resources
+C:\Users\Usuario\Pictures\adsadwa\obj\Debug\net10.0-windows\Formulario.csproj.GenerateResource.cache
+C:\Users\Usuario\Pictures\adsadwa\obj\Debug\net10.0-windows\Formulario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Pictures\adsadwa\obj\Debug\net10.0-windows\Formulario.AssemblyInfoInputs.cache
+C:\Users\Usuario\Pictures\adsadwa\obj\Debug\net10.0-windows\Formulario.AssemblyInfo.cs
+C:\Users\Usuario\Pictures\adsadwa\obj\Debug\net10.0-windows\Formulario.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Pictures\adsadwa\obj\Debug\net10.0-windows\Formulario.sourcelink.json
